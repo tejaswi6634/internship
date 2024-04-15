@@ -1,0 +1,57 @@
+.myimg
+{
+    border:1px solid black;
+    border-radius:50%;
+    width:200px;
+    height:200px;
+    
+}
+.background
+{
+    background-color: #613659;
+    color:white;
+    border-radius:15%;
+    border:1px solid black;
+}
+.bg{
+color:white;
+}
+.inline
+{
+    display:inline-block;
+    
+}
+.inline2
+{
+    display:inline-block;
+}
+.inline3
+{
+    display:inline-block;
+}
+.mailid
+{
+    display:inline-block;
+}
+.callid
+{
+    display:inline-block ;
+}
+.location
+{
+    display:inline-block;
+}
+.body2
+{
+    border:1px solid white;
+    border-radius:9%;
+}
+#cv-template
+{
+
+    display:none;
+}
+#nameT
+{
+    font-size:20px;
+}
